@@ -13,3 +13,14 @@ Encryption:
 Decryption:
 
 ![image](https://user-images.githubusercontent.com/80585569/154159894-4e303436-9d89-43cc-9251-69ef4225ae8b.png)
+
+THIS FILES ARE 100% SAFE!
+
+VirusTotal tests:
+
+xo_encryptor.py:
+https://www.virustotal.com/gui/file/327741c7844abaddc318a6ad654d5fc13d20410c3a588af84be80fd290cf710e
+
+xo_decryptor.py:
+https://www.virustotal.com/gui/file/ffaa671ec37e7eae063b9b422cbeb8709f88b6f6948f5a470bff2b905e0a52c6
+
