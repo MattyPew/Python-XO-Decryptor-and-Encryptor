@@ -18,9 +18,5 @@ THIS FILES ARE 100% SAFE!
 
 VirusTotal tests:
 
-xo_encryptor.py:
-https://www.virustotal.com/gui/file/327741c7844abaddc318a6ad654d5fc13d20410c3a588af84be80fd290cf710e
-
-xo_decryptor.py:
-https://www.virustotal.com/gui/file/ffaa671ec37e7eae063b9b422cbeb8709f88b6f6948f5a470bff2b905e0a52c6
-
+xo_compiled.py:
+https://www.virustotal.com/gui/file/5526b75b6261cc9aef344540f88b5be4fb10fbf30db0cc6f6aea7a4924cbbe3b
